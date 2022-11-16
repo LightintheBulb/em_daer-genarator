@@ -18,7 +18,7 @@ The purpose of this project is to generate an README.md file using Node JS
 
 ## Screenshot
 
-undefined
+<img width="346" alt="Screen Shot 2022-11-15 at 22 25 16 PM" src="https://user-images.githubusercontent.com/96213325/202076721-28809324-560a-4b41-9b6c-c9261cf2e0c5.png">
 
 ## Link
 https://github.com/LightintheBulb/em_daer-genarator
