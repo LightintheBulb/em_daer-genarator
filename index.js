@@ -49,8 +49,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "contribution",
-        message: "If applicable, list the following individual that contributed to this project.",
+        name: "contributors",
+        message: "If applicable, list the following individual that contributed to this project including yourself.",
     },
     {
         type: "list",
