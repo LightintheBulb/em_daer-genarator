@@ -29,33 +29,35 @@ const questions = [
     {
         type: "input",
         name: "link",
-        message: "If applicable, enter Link to Deployed Application?",
-    }
-    // {
-    //     type: "input",
-    //     name: "features",
-    //     message: "What's the title of this project?",
-    // },
-    // {
-    //     type: "input",
-    //     name: "title",
-    //     message: "What's the title of this project?",
-    // },
-    // {
-    //     type: "input",
-    //     name: "title",
-    //     message: "What's the title of this project?",
-    // },
-    // {
-    //     type: "input",
-    //     name: "title",
-    //     message: "What's the title of this project?",
-    // },
-    // {
-    //     type: "input",
-    //     name: "title",
-    //     message: "What's the title of this project?",
-    // },
+        message: "If applicable, enter Link to Deployed project?",
+    },
+    {
+        type: "input",
+        name: "features",
+        message: "List Feature currently available in this project.",
+    },
+    {
+        type: 'checkbox',
+        message: 'What languages were used to initial create this project?',
+        name: 'languages',
+        choices: ['HTML', 'CSS', 'JavaScript', 'MySQL'],
+      },
+    {
+        type: "input",
+        name: "installation",
+        message: "Enter Applications/Packages needed for project to function.",
+    },
+    {
+        type: "input",
+        name: "contribution",
+        message: "If applicable, list the following individual that contributed to this project.",
+    },
+    {
+        type: "list",
+        name: "license",
+        message: "Select the license used on this project",
+        choices: ["MIT", "GPLv2", "Apache", "ISC", "Other", "NONE"]
+    },
     // {
     //     type: "input",
     //     name: "title",
