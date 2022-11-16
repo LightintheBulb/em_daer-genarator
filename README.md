@@ -8,7 +8,7 @@
 - [Features](#features)
 - [Programming Languages](#languages)
 - [Installation](#installation)
-- [Contribution](#contribution)
+- [Contributors](#contributors)
 - [License](#license)
 
 
@@ -29,8 +29,8 @@ https://github.com/LightintheBulb/em_daer-genarator
 ## Features
 Generates README.md file using Node JS
 
-## Technology
-undefined
+## Programming Languages
+JavaScript
 
 ## Installation
 Node JS
